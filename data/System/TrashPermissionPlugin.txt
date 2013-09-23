@@ -1,0 +1,24 @@
+%META:TOPICPARENT{name="Plugins"}%
+---+ TrashPermissionPlugin
+
+%SHORTDESCRIPTION%
+
+---++ Installation
+
+There are no special steps required.
+
+---++ Usage
+
+<code>TrashPermissionPlugin</code> ensures correct topic permission after deletion or restoration. It works behind the scenes without any interaction neccessary.
+
+---++ Plugin Info
+
+|  Author: | Foswiki:Main.SvenMeyer |
+|  Copyright: | &copy; 2013, Foswiki Contributors |
+|  License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
+|  Release: | %$RELEASE% |
+|  Version: | %$VERSION% |
+|  Change&nbsp;History: | |
+|  20 Aug 2013 (1.0.2) | Initial release |
+|  Home: | http://www.modell-aachen.de |
+|  Support: | http://www.modell-aachen.de |
